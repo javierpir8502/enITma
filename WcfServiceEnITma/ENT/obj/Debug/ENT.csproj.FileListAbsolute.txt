@@ -1,0 +1,6 @@
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\bin\Debug\ENT.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\bin\Debug\ENT.pdb
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\obj\Debug\ENT.csproj.AssemblyReference.cache
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\obj\Debug\ENT.csproj.CoreCompileInputs.cache
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\obj\Debug\ENT.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\ENT\obj\Debug\ENT.pdb

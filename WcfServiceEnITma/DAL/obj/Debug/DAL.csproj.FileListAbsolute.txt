@@ -1,0 +1,14 @@
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\DAL.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\DAL.pdb
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\ENT.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\ENT.pdb
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\obj\Debug\DAL.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\obj\Debug\DAL.pdb
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\DAL.dll.config
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\EntityFramework.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\EntityFramework.xml
+C:\Users\javier.piratova\source\repos\WcfServiceEnITma\DAL\bin\Debug\EntityFramework.SqlServer.xml

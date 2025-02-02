@@ -1,0 +1,11 @@
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\bin\Debug\WinAppEnITma.exe.config
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\bin\Debug\WinAppEnITma.exe
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\bin\Debug\WinAppEnITma.pdb
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.csproj.AssemblyReference.cache
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.Form1.resources
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.Properties.Resources.resources
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.csproj.GenerateResource.cache
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.csproj.CoreCompileInputs.cache
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.exe
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.pdb
+C:\Users\javier.piratova\source\repos\WinAppEnITma\WinAppEnITma\obj\Debug\WinAppEnITma.creacionForm.resources
